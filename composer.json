@@ -1,0 +1,24 @@
+{
+    "name": "twentytwo-labs/behat-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for add behat in Symfony app",
+    "authors": [
+        {
+            "name": "Thibaut ALGRIN",
+            "email": "algrin.thibaut@gmail.com"
+        }
+    ],
+    "require": {
+        "dvdoug/behat-code-coverage": "*",
+        "friends-of-behat/mink-extension": "*",
+        "friends-of-behat/mink-browserkit-driver": "*",
+        "friends-of-behat/symfony-extension": "*"
+    },
+    "require-dev": {
+        "dvdoug/behat-code-coverage": "*",
+        "friends-of-behat/mink-extension": "*",
+        "friends-of-behat/mink-browserkit-driver": "*",
+        "friends-of-behat/symfony-extension": "*"
+    }
+}
